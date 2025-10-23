@@ -13,3 +13,6 @@ Este é um componente React simples que cria um formulário para coletar o nome 
 - React (com Hooks: useState)
 - CSS (para estilização básica)
 - html
+
+
+<img width="1483" height="788" alt="class22" src="https://github.com/user-attachments/assets/edd7e519-fdc6-42d7-b996-af7f33d25d5e" />
